@@ -101,7 +101,7 @@ npm start
 *(Add your screenshots here)*
 | Dashboard | Course Registration | Attendance |
 |-----------|---------------------|------------|
-| ![Dash](https://ibb.co/qTPsPp2) | ![Courses](https://via.placeholder.com/300x150?text=Registration) | ![Attendance](https://via.placeholder.com/300x150?text=Tracking) |
+| ![Dash](https://via.placeholder.com/300x150?text=Dashboard) | ![Courses](https://via.placeholder.com/300x150?text=Registration) | ![Attendance](https://via.placeholder.com/300x150?text=Tracking) |
 
 ---
 
