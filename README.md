@@ -101,7 +101,7 @@ npm start
 *(Add your screenshots here)*
 | Dashboard | Course Registration | Attendance |
 |-----------|---------------------|------------|
-| ![Dash](https://kommodo.ai/i/ldEGOM17RvfGRE1jpgZF) | ![Courses](https://via.placeholder.com/300x150?text=Registration) | ![Attendance](https://via.placeholder.com/300x150?text=Tracking) |
+| ![Dash](https://ibb.co/qTPsPp2) | ![Courses](https://via.placeholder.com/300x150?text=Registration) | ![Attendance](https://via.placeholder.com/300x150?text=Tracking) |
 
 ---
 
